@@ -1,0 +1,37 @@
+name: zapaper
+description: >
+    A simple jekyll theme with clean interface to write posts
+    and show off some content.
+about: >
+    The one place you will find uncensored news reporting without any fear or favour.
+
+master_repo: false
+url: "http://goitsemo.github.io/zapaper"
+markdown: kramdown
+highlighter: rouge
+
+plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
+
+paginate: 4
+
+logo:             logo.png
+disqus_shortname:
+
+rtl: false
+owner:
+  name:   zapaper
+  avatar: 
+  email:  "goitsemorena@outlook.com"
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: goitsemorena
+  github: 
+  stackexchange:
+  linkedin:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
